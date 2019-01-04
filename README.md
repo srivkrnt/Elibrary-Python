@@ -1,8 +1,4 @@
-Tkinter based basic Crime management system 
+Implementation of a reading portal with book management services using Python.
 
-Uses Python 2.7 and Tkinter along with Sqlite3 to handle the backend
-
-BUGS:
-
-1 - Add constraints to input validation
-2 - Some entry fields can be modified for precise value input
+The project uses Tkinter library and SQL database and is built using python 2.7. 
+To run the project move to the directory and run the index.py file, or you can use the command line to run the project by executing the command "python index.py" without quotes.
