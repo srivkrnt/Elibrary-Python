@@ -72,18 +72,8 @@ def show_help():
 
 
   
-index()  
-# root=Tk()
-# root.geometry("450x600+510+130")
-# root.resizable(0,0)
-# root.overrideredirect(1)
-# #splash_image = PhotoImage(file="images/splash.gif")
+index()
 
-# def to_index():
-#     root.destroy()
-#     index()
-    
-# Label(root).place(x=0,y=0)
-# root.after(3000,to_index)
-# root.mainloop()
+
+
 
